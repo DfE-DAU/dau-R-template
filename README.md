@@ -80,6 +80,7 @@ A new project contains the following folder structure:
 
 - Collaboration with DAU team to agree on folder and file structure.
 - Further testing and documentation of the package.
+- Make this folder structure inline with the tenplae suggested.
 - More support for a package folder structure.
 - Integration with QA (automated QA document).
 - Support for Shiny apps.
