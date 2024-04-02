@@ -79,7 +79,7 @@ dau_proj_template <- function(
   dir.create(paste0(path, "/04_Outputs/03_tables"))
   
   dir.create(paste0(path, "/05_Misc"))
-  dir.create(paste0(path, "/05_Misc/01_public_test"))
+  dir.create(paste0(path, "/05_Misc/01_public"))
   dir.create(paste0(path, "/05_Misc/02_priv"))
   
   # .gitignore for Azure DevOps
