@@ -19,7 +19,7 @@ using git and `renv`.
 ## Installation
 
 ``` r
-remotes::install_github("JT-39/dau-R-template-ext")
+remotes::install_github("DfE-DAU/dau-R-template")
 ```
 
 ## Usage
