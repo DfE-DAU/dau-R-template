@@ -1,11 +1,11 @@
 # Project Title
 
 ## Overview
-Provide a brief description of the analytical project, its objectives, and its relevance to government operations.
+Provide a brief description of the analytical project, its objectives, and its relevance to operations.
 
 ## Data Sources
 - List and describe the datasets used
-- Include data origin (e.g., government databases, public APIs)
+- Include data origin (e.g., databases, public APIs)
 - Mention any access restrictions or data sensitivity considerations
 
 ## Methodology
@@ -43,5 +43,6 @@ Provide a brief description of the analytical project, its objectives, and its r
 - Contact emails or communication channels
 
 ## Licensing
-- License type (e.g., MIT, GPL)
+This project is for internal use within the Department for Education.
 - Any usage restrictions or disclaimers
+
